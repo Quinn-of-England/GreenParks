@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "77648771832",
+    "project_id": "greenparks-d45b7",
+    "storage_bucket": "greenparks-d45b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:77648771832:android:4fbccba3d7bb0d825f590d",
+        "android_client_info": {
+          "package_name": "com.example.greenparks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "77648771832-1a0h08mau10hp13i4rsup8n3fii8oucf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLH67s_4zjDT3tkXca3PJjttNM1wR1xFY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "77648771832-1a0h08mau10hp13i4rsup8n3fii8oucf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
